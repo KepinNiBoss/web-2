@@ -1,6 +1,7 @@
 body {
   padding: 0p x;
   margin: auto;
+  background-color: #252428;
 }
 
 .jumbotron {
@@ -21,4 +22,8 @@ body {
 
 section {
   padding-top: 7rem;
+}
+
+.navbar {
+  background-color: #371b58;
 }
