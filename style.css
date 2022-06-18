@@ -14,10 +14,12 @@ body {
   background-color: #4c3575;
   color: black;
   padding-left: 0px;
+  padding-top: 0px;
 }
 
 #contact {
   padding: left 0;
+  padding-top: 0px;
 }
 
 section {
@@ -26,4 +28,8 @@ section {
 
 .navbar {
   background-color: #371b58;
+}
+
+#about {
+  padding-top: 0px;
 }
